@@ -1,0 +1,46 @@
+body {
+    font-family: 'Concert One', cursive;
+    background-color: #bd61c9;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+}
+.btn-move {
+    font-family: 'Work Sans', sans-serif;
+    background-color: #ff3366;
+    color: #ffdffd;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 12px 18px 12px 18px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    width: 150px;
+    margin: 0px auto;
+    display: block;
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
+
+.btn-move:hover {
+    background-color: #e81e61;
+    color: #ffffff;
+}
+
+#main-content {
+    text-align: center;
+    padding: 5px 0px 0px 5px;
+}
+hr {
+    width: 50%;
+    padding: 5px 0px 0px 0px;
+}
+.time {
+    text-align: right;
+    padding: 0px 20px 0px 20px;
+}
